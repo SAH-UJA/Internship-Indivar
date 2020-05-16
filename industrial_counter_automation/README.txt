@@ -26,7 +26,7 @@
    shell > cd /var/www/html
    shell > mkdir master_files
    shell > cd master_files
-   Put all the files in the master/login/login_files folder in this directory
+   Put all the files in the master/login/login_files folder in this directory.
 
 6) For Slave : Put python code in the slave/button_code_python folder in the root directory
-   For Master : Put python code in the master/count_all folder in the root directory
+   For Master : Put python code in the master/count_all folder in the root directory.
